@@ -1,7 +1,3 @@
 {
-  "react_challenge": [
-    {
-      "company_name": "Testing"
-    }
-  ]
+  "company_name": {"string": {}}
 }
